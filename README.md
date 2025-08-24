@@ -61,5 +61,8 @@ Select desired output file.
 
 Check hash.
 
-## To compile for Windows:
+## To 'compile' for Windows:
 Get [PS12EXE](https://github.com/steve02081504/ps12exe).
+
+I used the following command for creating the EXE:
+````ps12exe C:\Path\VMTRT.ps1 -noConsole -resourceParams @{ iconFile = 'C:\Path\VMTRT.ico' }````
