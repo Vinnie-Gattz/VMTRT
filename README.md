@@ -15,7 +15,7 @@ For dummies
 
   install Xgpro, plug in programmer.
 
-  Getting the chips out without damaging the board is a NIGHTMARE. Please do it with extreme caution and use some Chip Quik alloy or something. I didn't and I wound up needing to install bodge wires. Putting the chips back in, put in sockets.
+  Getting the chips out without damaging the board is a NIGHTMARE. Please do it with extreme caution, a hot iron, and use some Chip Quik alloy or something. I didn't and I wound up needing to install bodge wires. When you put the chips back in, put in sockets.
 
 ### For control ROMs:
 
