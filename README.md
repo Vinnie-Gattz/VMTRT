@@ -65,4 +65,4 @@ Check hash.
 Get [PS12EXE](https://github.com/steve02081504/ps12exe).
 
 I used the following command for creating the EXE:
-````ps12exe C:\Path\VMTRT.ps1 -noConsole -resourceParams @{ iconFile = 'C:\Path\VMTRT.ico' }````
+````ps12exe C:\Path\VMTRT.ps1 -App @{ Windowed = $true } -Resources @{ Icon = 'C:\Path\VMTRT.ico' }````
